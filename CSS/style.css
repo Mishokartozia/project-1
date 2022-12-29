@@ -1,4 +1,4 @@
-body{
+.body1{
     background-image: url(https://github.com/Mishokartozia/project-1/blob/main/images/backg1.jpg?raw=true);
     max-width: 1920px;
     max-height: 1280px;
@@ -110,6 +110,13 @@ button:hover{
 }
 button a:hover{
     color: black;
+}
+
+/* page 2 */
+.body2{
+    background-image: url(https://github.com/Mishokartozia/project-1/blob/main/images/backg1.jpg?raw=true);
+    max-width: 1920px;
+    max-height: 1280px;
 }
 
 
