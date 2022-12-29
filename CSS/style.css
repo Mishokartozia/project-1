@@ -148,6 +148,55 @@ button a:hover{
     text-shadow: black;
     margin-bottom: 20px;
 }
+/* page 3 */
+.body3{
+    background-image: url(https://github.com/Mishokartozia/project-1/blob/main/images/backg3.jpg?raw=true);
+    max-width: 1920px;
+    max-height: 1280px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+    background-position-x: center;
+
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+   margin-top: 50px;
+   
+  
+   margin-left: 20px;  
+   
+ 
+
+}
+.disi{
+    background-color: black;
+    border: 2px solid black;
+    opacity: 0.4;
+    width: 500px;
+    height: 120px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+   
+   
+
+
+}
+/* page 4 */
+.body4{
+    background-image: url(https://github.com/Mishokartozia/project-1/blob/main/images/backg3.jpg?raw=true);
+    max-width: 1920px;
+    max-height: 1280px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+    background-position-x: center;
+
+}
+
+
 
 
 
